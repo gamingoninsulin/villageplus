@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": "\u00A7eA vanilla cherry grove village\n\u00A7aversion 1.20+"
+    },
+    "authors": {
+        "main_author": "gamingoninsulin",
+        "website":"https://gamingoninsulin.github.io/cluster"
+    },
+    "thanks_to": {
+        "nr-1": "thanks to waddles for the idea!",
+        "nr2": "thanks to wafflesArebetter for his tutorials!",
+        "nr-3": "thanks to kaupen Joe for his turtorials!"
+    }
+}
